@@ -1,4 +1,4 @@
-# fostfb.php
+
 <?php
  require_once 'src/facebook.php';
 class FacebookApi {
